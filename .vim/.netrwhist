@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/denis/flaskapp/flaskr'
+let g:netrw_dirhist_2='/home/denis/py/tdd'
+let g:netrw_dirhist_3='/home/denis/py/tdd/src'
+let g:netrw_dirhist_4='/home/denis/py/tdd'
+let g:netrw_dirhist_5='/home/denis/py/tdd/test'
+let g:netrw_dirhist_6='/home/denis/py/flaskapp/pylegs/controllers'
+let g:netrw_dirhist_7='/home/denis/py/flaskapp/pylegs'
+let g:netrw_dirhist_8='/home/denis'
